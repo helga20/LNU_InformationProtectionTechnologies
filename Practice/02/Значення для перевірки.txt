@@ -1,0 +1,10 @@
+вхідний текст  -> ключ(і)  -> зашифрований текст
+---------------------------------------------------
+
+1. The Two square cipher, also called double Playfair, is a manual symmetric encryption technique.
+ -> example keyword
+
+2.1. hello -> GYBCHNQKNBURPVOSCXPHJELQV -> JGUAU
+
+2.2 ACT -> GYBNQKURP -> POH
+
