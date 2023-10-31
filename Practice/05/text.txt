@@ -1,0 +1,1 @@
+The Two square cipher, also called double Playfair, is a manual symmetric encryption technique
