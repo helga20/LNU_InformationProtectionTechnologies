@@ -53,7 +53,7 @@ def multiply_by_matrix(input_data):
 def apply_key_material(data, key_material):
     return data ^ key_material
 
-# Функція для раунду преобразования
+# Функція для раунду перетворення
 def round_transform(data, key_material, encrypt=True):
     if encrypt:
         s0_data = s_block(data, S0)
